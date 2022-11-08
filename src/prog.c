@@ -44,7 +44,6 @@ int main() {
     input_string(str);
     capitalize_consonants(str);
     print_string(str);
-    putchar('\n');
 
     return 0;
 }
