@@ -5,7 +5,7 @@ prog:
 	$(CC) $(src).c -o $(src)
 
 all: prog
-.PHONY : clean
+.PHONY : prog clean
 
 clean:
 	rm -f $(src)
