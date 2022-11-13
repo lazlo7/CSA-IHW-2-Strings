@@ -18,3 +18,5 @@ ASCII. (https://ru.wikipedia.org/wiki/ASCII). Размер строки може
 - ./src/: исходные файлы.
 - compile_flags.txt: флаги компиляции для clangd (не свзяно напрямую с проектом).
 - report.md: отчет.
+
+Представлено решение на 6 баллов.
