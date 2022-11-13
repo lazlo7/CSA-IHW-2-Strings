@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <assert.h>
+#include <string.h>
 
 #define STR_CAPACITY 10000
 
@@ -39,7 +40,7 @@ void capitalize_consonants(char* str) {
 
 int main() {
     char str[STR_CAPACITY];
-    
+
     input_string(str);
     capitalize_consonants(str);
     print_string(str);
