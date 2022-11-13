@@ -16,4 +16,5 @@ ASCII. (https://ru.wikipedia.org/wiki/ASCII). Размер строки може
 Используется intel-синтаксис для простоты.  
 
 - ./src/: исходные файлы.
+- compile_flags.txt: флаги компиляции для clangd (не свзяно напрямую с проектом).
 - report.md: отчет.
